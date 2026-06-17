@@ -8,12 +8,12 @@
 - search insert position
 - bubble sort
 - contains duplicate
-- product of array except itself
 - move zeros
 
 ## Medium
 - container with most water
 - Reverse word string
-
+- product of array except itself
+  
 ## Hard
 - Coming Soon
