@@ -9,6 +9,7 @@
 - bubble sort
 - contains duplicate
 - product of array except itself
+- move zeros
 
 ## Medium
 - container with most water
