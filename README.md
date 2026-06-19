@@ -12,6 +12,8 @@
 - reverse vowels in string
 - is subsequence
 - can place flower
+- maximum average subarray
+- find pivot index
 
 ## Medium
 - container with most water
