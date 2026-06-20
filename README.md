@@ -14,12 +14,14 @@
 - can place flower
 - maximum average subarray
 - find pivot index
+- greatest common divisor of string
 
 ## Medium
 - container with most water
 - Reverse word string
 - product of array except itself
 - string comparison
+- max consecutive ones
   
 ## Hard
 - Coming Soon
