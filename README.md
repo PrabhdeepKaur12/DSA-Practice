@@ -22,6 +22,9 @@
 - product of array except itself
 - string comparison
 - max consecutive ones
+- equal row and column pair
+- maximum ice cream bars
+- determine if two strings are close
   
 ## Hard
 - Coming Soon
