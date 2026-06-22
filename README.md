@@ -15,6 +15,8 @@
 - maximum average subarray
 - find pivot index
 - greatest common divisor of string
+- maximum number of ballons
+- unique number of occurance
 
 ## Medium
 - container with most water
