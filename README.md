@@ -27,6 +27,7 @@
 - equal row and column pair
 - maximum ice cream bars
 - determine if two strings are close
+- Longest subarray of 1's after deleting one element
   
 ## Hard
-- Coming Soon
+- maximum building height
