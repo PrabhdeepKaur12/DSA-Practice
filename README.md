@@ -28,6 +28,8 @@
 - maximum ice cream bars
 - determine if two strings are close
 - Longest subarray of 1's after deleting one element
+- decoding string
   
 ## Hard
 - maximum building height
+- number of zig zag array2
