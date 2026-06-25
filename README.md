@@ -17,6 +17,7 @@
 - greatest common divisor of string
 - maximum number of ballons
 - unique number of occurance
+- number of recent calls
 
 ## Medium
 - container with most water
@@ -29,6 +30,7 @@
 - determine if two strings are close
 - Longest subarray of 1's after deleting one element
 - decoding string
+- count subarrays with majority number
   
 ## Hard
 - maximum building height
