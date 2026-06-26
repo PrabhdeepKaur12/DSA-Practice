@@ -31,6 +31,7 @@
 - Longest subarray of 1's after deleting one element
 - decoding string
 - count subarrays with majority number
+- dota2 senate
   
 ## Hard
 - maximum building height
