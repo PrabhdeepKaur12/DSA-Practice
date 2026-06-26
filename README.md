@@ -35,3 +35,4 @@
 ## Hard
 - maximum building height
 - number of zig zag array2
+- count subarrays with majority number2
