@@ -32,6 +32,7 @@
 - decoding string
 - count subarrays with majority number
 - dota2 senate
+- find the maximum number of element in subset
   
 ## Hard
 - maximum building height
