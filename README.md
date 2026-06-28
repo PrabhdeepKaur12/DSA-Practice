@@ -34,6 +34,7 @@
 - dota2 senate
 - find the maximum number of element in subset
 - odd even linked list
+- maximum element after decreasing and rearranging
   
 ## Hard
 - maximum building height
