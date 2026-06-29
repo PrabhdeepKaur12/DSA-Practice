@@ -19,6 +19,7 @@
 - unique number of occurance
 - number of recent calls
 - reverse linked list
+- number of string that apear as substring in word
 
 ## Medium
 - container with most water
