@@ -20,6 +20,7 @@
 - number of recent calls
 - reverse linked list
 - number of string that apear as substring in word
+- maximum depth of binary tree
 
 ## Medium
 - container with most water
