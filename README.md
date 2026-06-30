@@ -38,6 +38,7 @@
 - find the maximum number of element in subset
 - odd even linked list
 - maximum element after decreasing and rearranging
+- number of substrings containing all three characters
   
 ## Hard
 - maximum building height
