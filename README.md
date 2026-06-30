@@ -21,6 +21,7 @@
 - reverse linked list
 - number of string that apear as substring in word
 - maximum depth of binary tree
+- leaf similar trees
 
 ## Medium
 - container with most water
