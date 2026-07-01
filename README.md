@@ -41,6 +41,7 @@
 - maximum element after decreasing and rearranging
 - number of substrings containing all three characters
 - find the safest path in a grid
+- count good nodes in binary tree
   
 ## Hard
 - maximum building height
