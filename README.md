@@ -40,6 +40,7 @@
 - odd even linked list
 - maximum element after decreasing and rearranging
 - number of substrings containing all three characters
+- find the safest path in a grid
   
 ## Hard
 - maximum building height
