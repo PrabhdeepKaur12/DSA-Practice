@@ -42,6 +42,7 @@
 - number of substrings containing all three characters
 - find the safest path in a grid
 - count good nodes in binary tree
+- longest zig zag path in a binary search
   
 ## Hard
 - maximum building height
