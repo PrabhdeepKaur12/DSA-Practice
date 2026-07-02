@@ -43,6 +43,7 @@
 - find the safest path in a grid
 - count good nodes in binary tree
 - longest zig zag path in a binary search
+- find a safe walk through a grid
   
 ## Hard
 - maximum building height
