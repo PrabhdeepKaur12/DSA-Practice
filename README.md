@@ -44,6 +44,7 @@
 - count good nodes in binary tree
 - longest zig zag path in a binary search
 - find a safe walk through a grid
+- lowest common ancestor of binary tree
   
 ## Hard
 - maximum building height
