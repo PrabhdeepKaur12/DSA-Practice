@@ -46,6 +46,8 @@
 - find a safe walk through a grid
 - lowest common ancestor of binary tree
 - binary tree right side view
+- remove covered intervals
+- maximum number of ballons
   
 ## Hard
 - maximum building height
