@@ -22,6 +22,7 @@
 - number of string that apear as substring in word
 - maximum depth of binary tree
 - leaf similar trees
+- binary watch
 
 ## Medium
 - container with most water
