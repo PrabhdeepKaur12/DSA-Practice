@@ -23,6 +23,7 @@
 - maximum depth of binary tree
 - leaf similar trees
 - binary watch
+- majority element
 
 ## Medium
 - container with most water
