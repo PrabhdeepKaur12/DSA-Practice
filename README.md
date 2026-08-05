@@ -24,6 +24,7 @@
 - leaf similar trees
 - binary watch
 - majority element
+- find a element at only first place
 
 ## Medium
 - container with most water
