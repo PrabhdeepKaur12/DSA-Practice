@@ -52,6 +52,7 @@
 - binary tree right side view
 - remove covered intervals
 - maximum number of ballons
+- 3sum
   
 ## Hard
 - maximum building height
