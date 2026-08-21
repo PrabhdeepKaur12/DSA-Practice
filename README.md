@@ -26,6 +26,7 @@
 - majority element
 - find a element at only first place
 - set mismatch
+- binary to decimal conversion
 
 ## Medium
 - container with most water
